@@ -10,5 +10,3 @@
 - 📫 How to reach me: https://nitinraj-portfolio.herokuapp.com/
 
 ![Profile views](https://gpvc.arturio.dev/nitinraj2001)
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
